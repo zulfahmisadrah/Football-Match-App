@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+    <string name="prev">Prev. Match</string>
+    <string name="favorites">Favorites</string>
+    <string name="next">Next Match</string>
+    <string name="menu_search">Menu Search</string>
+    <string name="players">Players</string>
+    <string name="weight_kg">Weight (Kg)</string>
+    <string name="height_m">Height (m)</string>
+    <string name="stadium_name">Stadium Name</string>
+    <string name="years">Years</string>
+    <string name="team_name">Team Name</string>
+    <string name="team_logo">Team Logo</string>
+
+</resources>
